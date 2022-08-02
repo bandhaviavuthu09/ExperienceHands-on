@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Debug","Ignoring","IGNORED","2022-08-02T13:57:08.0291546+05:30[Asia/Calcutta]","0.0","0.0"
+"Debug","Errors","ERROR","2022-08-02T13:57:08.0362928+05:30[Asia/Calcutta]","0.0","0.04"
+"Debug","Pending","PENDING","2022-08-02T13:57:08.079648+05:30[Asia/Calcutta]","0.0","0.0"
+"Debug","Failing","FAILURE","2022-08-02T13:57:08.0840776+05:30[Asia/Calcutta]","0.0","0.12"
+"Debug","get all services","ERROR","2022-08-02T13:57:08.2091224+05:30[Asia/Calcutta]","0.0","0.26"
+"Debug","Passing","SUCCESS","2022-08-02T13:57:08.472488+05:30[Asia/Calcutta]","0.0","0.13"
+"Debug","Compromised","SUCCESS","2022-08-02T13:57:08.6092638+05:30[Asia/Calcutta]","0.0","0.01"

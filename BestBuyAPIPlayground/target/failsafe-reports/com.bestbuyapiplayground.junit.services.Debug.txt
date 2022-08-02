@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuyapiplayground.junit.services.Debug
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 2, Skipped: 2, Time elapsed: 1.039 s <<< FAILURE! - in com.bestbuyapiplayground.junit.services.Debug
+errors(com.bestbuyapiplayground.junit.services.Debug)  Time elapsed: 0.014 s  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at com.bestbuyapiplayground.junit.services.Debug.errors(Debug.java:90)
+
+failStatuscode(com.bestbuyapiplayground.junit.services.Debug)  Time elapsed: 0.328 s  <<< FAILURE!
+java.lang.AssertionError: expected:<200> but was:<201>
+	at com.bestbuyapiplayground.junit.services.Debug.failStatuscode(Debug.java:69)
+
+test(com.bestbuyapiplayground.junit.services.Debug)  Time elapsed: 0.025 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "io.restassured.response.Response.getStatusCode()" because "this.res" is null
+	at com.bestbuyapiplayground.junit.services.Debug.test(Debug.java:40)
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuyapiplayground.junit.services.BestbuyapiplaygroundMultipleServicesTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.307 s - in com.bestbuyapiplayground.junit.services.BestbuyapiplaygroundMultipleServicesTest

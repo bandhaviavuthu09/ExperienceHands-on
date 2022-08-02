@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuyapiplayground.junit.products.BestbuyapiplaygroundCreateMultipleProducts
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.123 s - in com.bestbuyapiplayground.junit.products.BestbuyapiplaygroundCreateMultipleProducts
